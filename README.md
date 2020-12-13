@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning and enhancing myself.
 - 👯 I’m looking to collaborate on some open source projects.
 - 💬 Ask me about any tech related stuff.
-- ⚡ Fun fact: I also love to Singing,Listening,Playing and Creating Music😄
+- ⚡ Fun fact: I also love Singing,Listening,Playing and Creating Music😄
 
 ### Connect with me:
 
