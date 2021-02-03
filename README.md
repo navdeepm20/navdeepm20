@@ -1,7 +1,7 @@
 ### Hi there, I am Navdeep Mishra 👋
 
 
-- 🔭 I’m currently working on KeepSafe (A django Notes App)
+- 🔭 I’m currently working on my skills.
 - 🌱 I’m currently learning and enhancing myself.
 - 👯 I’m looking to collaborate on some open source projects.
 - 💬 Ask me about any tech related stuff.
