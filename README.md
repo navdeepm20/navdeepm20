@@ -16,9 +16,6 @@
 ### Technologies Known:
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,electron,redux,mui,tailwind,python,django,appwrite,postgres,git,github)](https://skillicons.dev)
 
-<br>
-<br>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=navdeepm20&count_private=true&show_icons=true" height="170px">
 
 
 [twitter]: https://twitter.com/navdeepm20
